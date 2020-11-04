@@ -1,10 +1,6 @@
 //
 //  updateViewController.m
 //  IOSDay22_CoreData
-//
-//  Created by Student P_10 on 03/05/18.
-//  Copyright © 2018 Felix. All rights reserved.
-//
 
 #import "updateViewController.h"
 
